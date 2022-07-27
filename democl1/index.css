@@ -1,0 +1,85 @@
+body{
+	    font-family: Roboto, Arial, sans-serif;
+}
+.ctn{
+	padding: 70px;
+	
+
+}
+.tacl{
+	display: flex;
+    width: 600px;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+
+.tbs{
+	margin-bottom: 100px;
+	margin-left: 300px;
+	height: 300px;
+}
+table
+{
+	width: 600px;
+}
+th, td {
+ 
+  text-align: center;
+  align-items: center;
+  width: 100px;
+
+  
+}
+.fcolumn{
+	    width: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+.column{
+	margin: auto;
+	width: 40px;
+	height: 200px;
+	margin-bottom: 10px;
+	
+	justify-content: center;
+	border-radius: 2px;
+	transition: height 2s;
+    
+}
+.column:hover{
+	width: 42px;
+	opacity: 70%;
+
+}
+.cl{
+	width: 70px;
+}
+.clred{
+	background-color: red;
+}
+.clblue{
+	background-color: blue;
+}
+.clpink{
+	background-color: pink;
+}
+.clwhite{
+	background-color: white;
+}
+.clblack{
+	background-color:  #343a40;
+}
+.cltwhite
+{
+	color: white;
+}
+table{
+	border: 10px;
+
+}
+form input{
+	padding: 5px;
+}
